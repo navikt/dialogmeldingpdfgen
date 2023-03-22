@@ -1,0 +1,18 @@
+name: Manual dev-deploy
+
+on:
+  workflow_dispatch:
+    inputs:
+      gitCommit:
+        description: 'Complete git commit to deploy'
+        required: true
+        default: ''
+
+jobs:
+  deploy-dev:
+    name: Deploy to NAIS dev-gcp
+    uses: navikt/isworkflows/.github/workflows/manual-deploy-dev.yml@master
+    with:
+      git-commit: ${{ github.event.inputs.gitCommit }}
+      dev-nais-template: .nais/naiserator-dev-gcp.yaml
+    secrets: inherit
