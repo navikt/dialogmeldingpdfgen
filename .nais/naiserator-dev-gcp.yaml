@@ -13,13 +13,13 @@ spec:
     max: 4
     cpuThresholdPercentage: 70
   liveness:
-    path: /is_alive
+    path: /internal/is_alive
     timeout: 1
     initialDelay: 5
     periodSeconds: 5
     failureThreshold: 30
   readiness:
-    path: /is_alive
+    path: /internal/is_alive
     timeout: 1
     initialDelay: 5
     periodSeconds: 5
@@ -30,8 +30,8 @@ spec:
     path: /prometheus
   resources:
     limits:
-      cpu: 200m
-      memory: 512Mi
+      cpu: 800m
+      memory: 1024Mi
     requests:
       cpu: 500m
       memory: 512Mi
