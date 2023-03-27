@@ -1,5 +1,38 @@
-{
-  "dialogmelding": {
-    "navnHelsepersonell": "Hansen, Per"
+[
+  {
+    "type": "HEADER_H1",
+    "texts": ["Spørsmål om tilleggsopplysninger vedrørende pasient"]
+  },
+  {
+    "type": "PARAGRAPH",
+    "texts": ["Gjelder Artig Trane, f.nr. 12345678945"]
+  },
+  {
+    "type": "PARAGRAPH",
+    "texts": ["Som et ledd i NAVs videre vurdering oppfølging av din pasient ber vi deg besvare følgende spørsmål:"]
+  },
+  {
+    "type": "PARAGRAPH",
+    "texts": ["Her kommer en fritekst skrevet av veilederen, som feks: Artig Trane skal nå vurderes for aktivitetskrav."]
+  },
+  {
+    "type": "PARAGRAPH",
+    "texts": ["Opplysninger som etter din vurdering faller utenfor formålet, kan du utelade i oversendelsen til NAV"]
+  },
+  {
+    "type": "PARAGRAPH",
+    "texts": ["Det er ikke utarbeidet blankett til dette formålet. Spørsmålene besvares i fritekst, og honoreres med takst L8."]
+  },
+  {
+    "type": "PARAGRAPH",
+    "texts": ["Folketrygdeloven § 21-4"]
+  },
+  {
+    "type": "PARAGRAPH",
+    "texts": ["Pålegget om utlevering av opplysninger kan påklages etter forvaltningsloven § 14"]
+  },
+  {
+    "type": "PARAGRAPH",
+    "texts": ["Med hilsen", "NAV Staden", "Siri Saksbehandler"]
   }
-}
+]
