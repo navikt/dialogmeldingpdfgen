@@ -1,38 +1,54 @@
 [
   {
     "type": "HEADER_H1",
-    "texts": ["Spørsmål om tilleggsopplysninger vedrørende pasient"]
+    "texts": [
+      "Spørsmål om tilleggsopplysninger vedrørende pasient"
+    ]
   },
   {
     "type": "PARAGRAPH",
-    "texts": ["Gjelder Artig Trane, f.nr. 12345678945"]
+    "texts": [
+      "Gjelder pasient: Artig Trane, 12345678945"
+    ]
   },
   {
     "type": "PARAGRAPH",
-    "texts": ["Som et ledd i NAVs videre vurdering oppfølging av din pasient ber vi deg besvare følgende spørsmål:"]
+    "texts": [
+      "NAV trenger opplysninger fra deg vedrørende din pasient. Du kan utelate opplysninger som etter din vurdering faller utenfor formålet."
+    ]
   },
   {
     "type": "PARAGRAPH",
-    "texts": ["Her kommer en fritekst skrevet av veilederen, som feks: Artig Trane skal nå vurderes for aktivitetskrav."]
+    "texts": [
+      "Her kommer en fritekst skrevet av veilederen, som feks: Artig Trane skal nå vurderes for aktivitetskrav."
+    ]
   },
   {
     "type": "PARAGRAPH",
-    "texts": ["Opplysninger som etter din vurdering faller utenfor formålet, kan du utelade i oversendelsen til NAV"]
+    "texts": [
+      "Spørsmålene besvares i fritekst, og honoreres med takst L8."
+    ]
   },
   {
     "type": "PARAGRAPH",
-    "texts": ["Det er ikke utarbeidet blankett til dette formålet. Spørsmålene besvares i fritekst, og honoreres med takst L8."]
+    "title": "Lovhjemmel",
+    "texts": [
+      "Folketrygdloven § 21-4 andre ledd gir NAV rett til å innhente nødvendige opplysninger. Dette gjelder selv om opplysningene er taushetsbelagte, jf. § 21-4 sjette ledd."
+    ]
   },
   {
     "type": "PARAGRAPH",
-    "texts": ["Folketrygdeloven § 21-4"]
+    "texts": [
+      "Pålegget om utlevering av opplysninger kan påklages etter forvaltningsloven § 14.",
+      "Klageadgangen gjelder kun lovligheten i pålegget. Fristen for å klage er tre dager etter at pålegget er mottatt. Klagen kan fremsettes muntlig eller skriftlig."
+    ]
   },
   {
     "type": "PARAGRAPH",
-    "texts": ["Pålegget om utlevering av opplysninger kan påklages etter forvaltningsloven § 14"]
-  },
-  {
-    "type": "PARAGRAPH",
-    "texts": ["Med hilsen", "NAV Staden", "Siri Saksbehandler"]
+    "texts": [
+      "Med hilsen",
+      "NAV Staden",
+      "Siri Saksbehandler"
+    ]
   }
 ]
