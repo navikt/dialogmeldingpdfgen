@@ -39,8 +39,4 @@ spec:
     inbound:
       rules:
         - application: padm2
-          namespace: teamsykefravr
-          cluster: dev-gcp
-        - application: isbehandlerdialog
-          namespace: teamsykefravr
-          cluster: dev-gcp
+        - application: isbehandlerdialog        
