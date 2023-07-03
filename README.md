@@ -34,4 +34,4 @@ a PDF to your browser. Additionally, the template folder will be fetched on ever
 since the last GET, making this ideal for developing new templates for your application.
 
 The templates and data directory structure both follow the `<application>/<templates>` structure.
-Example url: `http://0.0.0.0:8080/api/v1/genpdf/isbehandlerdialog/foresporselompasient`
+Example url: `http://localhost:8080/api/v1/genpdf/isbehandlerdialog/foresporselompasient-tilleggsopplysninger`
